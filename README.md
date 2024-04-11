@@ -1,4 +1,4 @@
-### Hi there 👋
+### Opa! estou começando a aprender a trabalhar em grupo como um trainee!
 
 <!--
 **oCristians/oCristians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
