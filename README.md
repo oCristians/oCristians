@@ -1,4 +1,4 @@
-### Opa! estou começando a aprender a trabalhar em grupo como um trainee no desenvolvimento de um site!
+### Opa! Finalizei meu primeiro projeto em Nextjs
 
 <!--
 **oCristians/oCristians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
